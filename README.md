@@ -16,7 +16,7 @@ The data set is based on 2014 ACS 1-year estimates: https://factfinder.census.go
 The graphs that are related to obesity show us that there is an inverse causality between lower-income and obesity. This could be caused because obesity is considered a cause of low income*. Obese people refer to low-income jobs due to discrimination in the labor market and public stigmatization, causing the person to receive less income and have access to poor quality food. The states with the highest obesity and lowest family income are Arkansas, West Virginia, and Mississippi. While the states with less obesity and are in the group of states with higher incomes are Colorado, Washington D.C. and Hawaii.
 It should also be taken into account that the average age at which the highest rates of obesity are found is between 34 and 42 years.
 *https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5781054/
-<br>
+<br><br><br>
 
 ### Relationship between Smokes (%) and Poverty (%)/ Age (Median)/Household Income (Median):
 <br>
