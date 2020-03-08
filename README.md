@@ -9,7 +9,7 @@ The data set is based on 2014 ACS 1-year estimates: https://factfinder.census.go
 ## Analysis:
 
 ### Relationship between Obese (%) and Poverty (%)/ Age (Median)/Household Income (Median):
-
+<br><br>
 
 ![Obese](D3_data_journalism/Images/Obese.PNG)
 <br>
